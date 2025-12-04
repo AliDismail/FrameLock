@@ -62,7 +62,7 @@ The solution we choose highlighted in the table:
 
 ![Figure 4: Main Body](images/Picture11.jpg)
 
-![Figure 5: Power Bank Case](images/Picture10.jpg)
+![Figure 5: Power Bank Case](images/Picture10.png)
 
 ![Figure 6: Pi5 Case](images/Picture9.jpg)
 
