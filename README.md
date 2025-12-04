@@ -23,7 +23,7 @@ It integrates real-time face tracking, automatic centering, and smooth mobility 
 -   Fully standalone system that requires no intervention
 -   Sleek and rigid design for portability
 
-### Version 2(Work in Progress)
+### Version 2 (Work in Progress)
 
 - Current development branch focuses on implementing a low level PID controller on each motor to ensure correct input to output behavior.
 - Goal: improve stability
