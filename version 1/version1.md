@@ -36,6 +36,7 @@ The robot:
 ## Design Summary
 
 ![Figure 1: Theoretical Concept](images/Picture2.png)
+
 ![Figure 2: Final Prototype](images/Picture11.png)
 
 Our project is lightweight autonomous mobile tripod robot that can:
@@ -59,9 +60,13 @@ The solution we choose highlighted in the table:
 -   **Wiring System**: Extended custom-built wiring harnesses (female-to-male and female-to-female connectors) were created to bridge the long distance between the Raspberry Pi and the motors, ensuring reliable connectivity and flexibility in component placement.
 
 ![Figure 4: Main Body](images/Picture2.png)
+
 ![Figure 5: Power Bank Case](images/Picture10.png)
+
 ![Figure 6: Pi5 Case](images/Picture9.png)
+
 ![Figure 7: Motor Setup](images/Picture8.png)
+
 ![Figure 8: Arduino Setup](images/Picture7.png)
 
 
