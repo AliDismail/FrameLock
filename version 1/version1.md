@@ -37,7 +37,7 @@ The robot:
 
 ![Figure 1: Theoretical Concept](images/Picture2.png)
 
-![Figure 2: Final Prototype](images/Picture11.jpg)
+![Figure 2: CAD Prototype](images/Picture6.png)
 
 Our project is lightweight autonomous mobile tripod robot that can:
 - Recognize authorized faces
@@ -51,6 +51,7 @@ Our project is lightweight autonomous mobile tripod robot that can:
 Our design went through many theoretical solutions and we choose an optimal solution out of them after testing in simulations which one we should use.
 The solution we choose highlighted in the table:
 ![Figure 3: Optimal Solution Table](images/Picture5.png)
+![Figure 3.5: Optimal Solution Table](images/Picture4.png)
 
 ### Design
 -   **Main Body**: Constructed from wood to provide a strong yet lightweight frame, with an integrated compartment dedicated to housing the battery.
@@ -59,7 +60,7 @@ The solution we choose highlighted in the table:
     
 -   **Wiring System**: Extended custom-built wiring harnesses (female-to-male and female-to-female connectors) were created to bridge the long distance between the Raspberry Pi and the motors, ensuring reliable connectivity and flexibility in component placement.
 
-![Figure 4: Main Body](images/Picture2.png)
+![Figure 4: Main Body](images/Picture11.jpg)
 
 ![Figure 5: Power Bank Case](images/Picture10.jpg)
 
