@@ -37,7 +37,7 @@ The robot:
 
 ![Figure 1: Theoretical Concept](images/Picture2.png)
 
-![Figure 2: Final Prototype](images/Picture11.png)
+![Figure 2: Final Prototype](images/Picture11.jpg)
 
 Our project is lightweight autonomous mobile tripod robot that can:
 - Recognize authorized faces
@@ -61,13 +61,13 @@ The solution we choose highlighted in the table:
 
 ![Figure 4: Main Body](images/Picture2.png)
 
-![Figure 5: Power Bank Case](images/Picture10.png)
+![Figure 5: Power Bank Case](images/Picture10.jpg)
 
-![Figure 6: Pi5 Case](images/Picture9.png)
+![Figure 6: Pi5 Case](images/Picture9.jpg)
 
 ![Figure 7: Motor Setup](images/Picture8.png)
 
-![Figure 8: Arduino Setup](images/Picture7.png)
+![Figure 8: Arduino Setup](images/Picture7.jpg)
 
 
 ### Circuit
