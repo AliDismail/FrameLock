@@ -97,14 +97,11 @@ The solution we choose highlighted in the table:
 The robot’s behavior is governed by a structured loop that integrates **IR input**, **computer vision**, and **motor control**:
 ### Control Logic
 1.  **User Input Phase**
-    -   The system waits for a command via the IR receiver, specifying which face to track.        
-2.  **Search Phase**
-    
-    -   The robot rotates slowly on the ground, scanning the environment until the target face is detected by the camera module.     
-3.  **Centering Phase**
-    -   Once the face is identified, the robot continuously adjusts its orientation to align the face with the center of the camera’s field of view.
-4.  **Distance Maintenance Phase**
-    -   When the face is centered, the robot regulates its position to maintain a predefined distance between the camera and the subject.
+    -   The system waits for a command via the IR receiver, specifying which face to track.            
+2.  **Centering Phase**
+    -   Once the face is identified, the robot continuously adjusts its orientation to align the face with the center of the camera’s field of view using a PID algorithm.
+3.  **Distance Maintenance Phase**
+    -   When the face is centered, the robot regulates its position to maintain a predefined distance between the camera and the subject using a PID algorithm.
     -   If the face drifts off-center, the robot re-enters the centering phase before resuming distance regulation.
  
 ### Note
@@ -123,7 +120,9 @@ To run the code you need to write this commands in the terminal:
  ---
 ## Team Members
 Ali Ismail - Control System, CV & Integration, Arduino Development
+
 Farah Michael - Mechanical Design, Arduino Development
+
 Nour Zebian - Mechanical Design, CV & Integration 
 
 ## Sources
