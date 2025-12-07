@@ -62,7 +62,7 @@ The solution we choose highlighted in the table:
 - **Electronics Housing**: A custom case was fabricated for both the power bank and the Raspberry Pi 5. Reinforced cardboard was used for durability, and the case was securely mounted onto the wooden structure.
 - **Wiring System**: Extended custom-built wiring harnesses (female-to-male and female-to-female connectors) were created to bridge the long distance between the Raspberry Pi and the motors, ensuring reliable connectivity and flexibility in component placement.
 
-![Figure 4: Main Body](images/Picture11.pmg)
+![Figure 4: Main Body](images/Picture11.png)
 
 ![Figure 5: Pi5 Case](images/Picture9.png)
 
