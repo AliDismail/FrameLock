@@ -135,6 +135,8 @@ Farah Michael - Mechanical Design, Arduino Development
 Nour Zebian - Mechanical Design, CV & Integration
 
 ## Sources
+Demo Video:
+https://youtube.com/shorts/7iFiCQCnec0
 
 PID Controller Library:
 
